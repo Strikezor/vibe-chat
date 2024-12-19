@@ -1,8 +1,6 @@
-# ✨ Full Stack Realtime Chat App ✨
+# ✨ VibeChat : Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+This is a full-stack realtime chat application, build with the MERN stack. It uses Socket.io for real-time messaging and online user status. The frontend is built with React, TailwindCSS, and Daisy UI. The backend is built with Node.js, Express, and MongoDB. It is built with a focus on performance, security, and scalability. It includes features like authentication, authorization, error handling, and more.
 
 Highlights:
 
@@ -12,7 +10,6 @@ Highlights:
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
 - ⏳ And much more!
 
 ### Setup .env file
@@ -40,3 +37,5 @@ npm run build
 ```shell
 npm start
 ```
+
+Inspired from [As a Programmer](https://www.youtube.com/@asaprogrammer_) on YouTube.
